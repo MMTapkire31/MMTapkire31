@@ -139,29 +139,6 @@
   </table>
 </div>
 
-<!-- GitHub Stats with animation -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px">
-  📊 GITHUB ANALYTICS
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px">
-</h2>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MMTapkire31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=6C63FF&title_color=6C63FF&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MMTapkire31&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MMTapkire31&theme=react-dark&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-</p>
-
-<!-- Contribution snake animation -->
-<p align="center">
-  <img src="https://github.com/MMTapkire31/MMTapkire31/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 <!-- Connect with me section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px">
