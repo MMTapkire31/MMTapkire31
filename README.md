@@ -187,7 +187,7 @@
   </h3>
   
   <h4>
-    📍 <i>2025 - The year of AI, Innovation, and Impact</i>
+    📍 <i>2026 - The year of AI, Innovation, and Impact</i>
   </h4>
   
   <br>
