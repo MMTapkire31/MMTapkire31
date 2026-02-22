@@ -1,119 +1,148 @@
 <div align="center">
   
-  <!-- Clean Header - Exactly as you liked -->
-  <h1>Mayuri Tapkire</h1>
-  
-  <h3>Data Science | Full Stack | AI/ML</h3>
-  
-  <!-- Simple Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=6C63FF&center=true&vCenter=true&width=435&lines=cout+%3C%3C+%22Hello+World!%22;print(%22Namaste!%22);System.out.println(%22Keep+Coding%22);printf(%22Building+Future%22)" alt="Typing Animation" />
-  
-  <!-- Clean Divider -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <!-- Animated header with typing effect - EXACTLY AS BEFORE -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mayuri+Tapkire;Computer+Science+(Data+Science)+Student;Full+Stack+Developer;Android+Developer;AI+%26+ML+Enthusiast;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+  </a>
+
+  <!-- Animated banner - EXACTLY AS BEFORE -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- Simple About Section -->
-<h2 align="center">👩‍💻 About Me</h2>
+<!-- About Me Section - EXACTLY AS BEFORE -->
+<h1 align="center">Hi 👋, I'm Mayuri Tapkire</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=6C63FF&center=true&vCenter=true&width=600&lines=Computer+Science+(Data+Science)+Student;Full+Stack+Developer;Android+Developer;AI+%26+ML+Enthusiast;Always+Learning+%7C+Always+Building" />
+  </a>
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+🎓 Computer Science (Data Science) Student  
+
+💻 Passionate about building scalable web & mobile applications  
+
+🤖 Exploring AI, Machine Learning & LLM-based systems  
+
+🧠 Strong foundation in DSA, OOP & DBMS  
+
+🌱 I believe in learning from mistakes and growing consistently  
+
+🎯 Aspiring Software Engineer  
+
+---
+
+## 🧠 Core Concepts
+
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Database Management Systems
+- Multithreading
+- Exception Handling
+- Software Development Life Cycle (SDLC)
+
+---
+
+<!-- ANIMATED TECHNOLOGIES SECTION -->
+## 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,php,cpp&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=100&color=6C63FF&center=true&vCenter=true&width=200&lines=Java;Python;PHP;C%2B%2B" alt="Language Animation" />
+</p>
+
+---
+
+## 🌐 Web & App Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,mysql,html,css,js,android,firebase,react,sqlite&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=100&color=6C63FF&center=true&vCenter=true&width=300&lines=Django;MySQL;HTML%2FCSS;JavaScript;Android;Firebase;React+Native;SQLite" alt="Web Animation" />
+</p>
+
+---
+
+## 🤖 Machine Learning & Data Science
+
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- Feature Engineering  
+- Model Building & Evaluation  
+- LLM Integration  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=100&color=6C63FF&center=true&vCenter=true&width=400&lines=Data+Cleaning;Exploratory+Data+Analysis;Feature+Engineering;Model+Building;LLM+Integration" alt="ML Animation" />
+</p>
+
+---
+
+<!-- ANIMATED PROJECTS SECTION -->
+# 🚀 Featured Projects
 
 <div align="center">
-  <p>
-    🎓 <b>Computer Science (Data Science)</b> Student<br><br>
-    💻 Passionate about building scalable web & mobile applications<br><br>
-    🤖 Exploring AI, Machine Learning & LLM-based systems<br><br>
-    🧠 Strong foundation in DSA, OOP & DBMS<br><br>
-    🌱 Learning from mistakes and growing consistently<br><br>
-    🎯 Aspiring Software Engineer
-  </p>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=300&lines=%F0%9F%8F%A5+Hospital+Management+System" alt="Project 1" />
+        <br>
+        <p><b>Tech:</b> Django | MySQL | HTML | CSS</p>
+        <p><i>A complete web platform to digitize hospital operations including patient management, appointments, and billing.</i></p>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=100&color=6C63FF&center=true&vCenter=true&width=200&lines=Django;MySQL;HTML%2FCSS" alt="Project Tech" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=300&lines=%F0%9F%8F%A2+HostelConnect" alt="Project 2" />
+        <br>
+        <p><b>Tech:</b> Java | XML | Firebase</p>
+        <p><i>An Android app to streamline hostel communication and complaint management.</i></p>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=100&color=6C63FF&center=true&vCenter=true&width=200&lines=Java;XML;Firebase" alt="Project Tech" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=300&lines=%F0%9F%A4%96+AI+Document+Intelligence" alt="Project 3" />
+        <br>
+        <p><b>Tech:</b> Django REST | MySQL | ChromaDB/FAISS</p>
+        <p><i>Semantic document search system using vector embeddings and AI integration.</i></p>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=100&color=6C63FF&center=true&vCenter=true&width=250&lines=Django+REST;MySQL;ChromaDB%2FFAISS" alt="Project Tech" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=300&lines=%F0%9F%A7%BE+Smart+Receipt+Scanner" alt="Project 4" />
+        <br>
+        <p><b>Tech:</b> Java | ML Kit | SQLite</p>
+        <p><i>Android app that scans receipts using OCR and categorizes expenses automatically.</i></p>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=100&color=6C63FF&center=true&vCenter=true&width=200&lines=Java;ML+Kit;SQLite" alt="Project Tech" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Core Concepts -->
-<h2 align="center">🧠 Core Concepts</h2>
+---
 
+<!-- Connect With Me - EXACTLY AS BEFORE -->
+## 📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/mayuri-tapkire-667182326?utm_source=share_via&utm_content=profile&utm_medium=member_android 
+
+📧 Email: mayurit3105@gmail.com , tapkiremayuri31@gmail.com
+
+---
+
+<!-- Footer - EXACTLY AS BEFORE -->
 <p align="center">
-  <code>OOP</code> •
-  <code>DSA</code> •
-  <code>DBMS</code> •
-  <code>Multithreading</code> •
-  <code>Exception Handling</code> •
-  <code>SDLC</code>
+  ✨ Building with consistency. Growing with every challenge. ✨
 </p>
 
-<!-- Programming Languages -->
-<h2 align="center">💻 Programming Languages</h2>
-
+<!-- Add subtle animation to footer -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=400&lines=%3E_+Keep+coding...;%3E_+Keep+building...;%3E_+Keep+growing..." alt="Footer Animation" />
 </p>
-
-<!-- Web & App Development -->
-<h2 align="center">🌐 Web & App Development</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-</p>
-
-<!-- Machine Learning & Data Science -->
-<h2 align="center">🤖 Machine Learning & Data Science</h2>
-
-<p align="center">
-  <code>Data Cleaning</code> •
-  <code>EDA</code> •
-  <code>Feature Engineering</code> •
-  <code>Model Building</code> •
-  <code>LLM Integration</code>
-</p>
-
-<!-- Featured Projects -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<br>
-
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| 🏥 **Hospital Management System** | Django, MySQL, HTML/CSS | Complete web platform to digitize hospital operations including patient management, appointments, and billing |
-| 🏢 **HostelConnect** | Java, XML, Firebase | Android application to streamline hostel communication and complaint management |
-| 🤖 **AI Document Intelligence** | Django REST, MySQL, ChromaDB/FAISS | Semantic document search system using vector embeddings and AI integration |
-| 🧾 **Smart Receipt Scanner** | Java, ML Kit, SQLite | Android app that scans receipts using OCR and categorizes expenses automatically |
-
-<!-- Connect With Me -->
-<h2 align="center">📫 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mayuri-tapkire-667182326">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mayurit3105@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="mailto:tapkiremayuri31@gmail.com">
-    <img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<!-- Clean Footer -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-  
-  <br>
-  
-  <h3>✨ Building with consistency. Growing with every challenge. ✨</h3>
-  
-  <br>
-  
-  <!-- Simple Signature -->
-  <p>
-    <b>Mayuri Tapkire</b><br>
-    Computer Science (Data Science) Student
-  </p>
-</div>
