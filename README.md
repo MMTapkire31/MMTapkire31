@@ -8,8 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=console.log(%22Hello%2C%20World!%22);print(%22Namaste%20India!%22);System.out.println(%22Code%20%26%20Create%22);cout%20%3C%3C%20%22Always%20Learning%22;printf(%22Building%20Future%22)" alt="Typing SVG" />
   </a>
   
-  <!-- Profile Views Counter with Animation -->
-  <img src="https://komarev.com/ghpvc/?username=MMTapkire31&label=PROFILE+EXPLORERS&color=6C63FF&style=for-the-badge" alt="profile views" />
+
   
   <!-- Animated Divider -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
