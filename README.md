@@ -1,106 +1,133 @@
 <h1 align="center">Hi 👋, I'm Mayuri Tapkire</h1>
-<h3 align="center">CSE (Data Science) Student | Full Stack & Android Developer | AI Enthusiast</h3>
+<h3 align="center">CSE (Data Science) Student | Full Stack Developer | Android Developer | AI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MMTapkire31&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 Computer Science (Data Science) Student
-- 💻 Passionate about Full Stack Development & Android Apps
-- 🧠 Improving DSA
-- 🤖 Exploring AI, LLMs & Machine Learning
+- 💻 Passionate about building real-world software systems
+- 🧠 Strong foundation in DSA, OOP & System Design basics
+- 🤖 Exploring AI, Machine Learning & LLM-based applications
+- 🌱 Growth mindset believer — I learn from mistakes and improve every day
 - 🎯 Goal: To become a top-tier Software Engineer
-- 🌱 I believe in learning from mistakes and improving every single day.
 
 ---
 
-## 🛠 Tech Stack
+# 🧠 Core Concepts
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- DBMS
+- Multithreading
+- Exception Handling
+- Software Development Life Cycle (SDLC)
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
 
-### 🌐 Full Stack
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+# 💻 Programming Languages
 
-### 📱 Android
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
 
-### 🤖 AI / ML
-- Machine Learning
+---
+
+# 🤖 ML & Data Science
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Model Building
+- Model Evaluation
 - LLM Integration
-- OCR (ML Kit)
-- Data Analysis
+
+---
+
+# 🌐 Web & App Development
+
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ---
 
 # 🔥 Featured Projects
 
----
-
 ## 🏥 Full Stack Hospital Management System
-**Problem:** Manual hospital record systems lead to inefficiency and data errors.  
-**Solution:** Built a full-stack web platform to manage patients, doctors, appointments, and billing digitally.
+**Problem:** Manual hospital systems cause inefficiency and poor record management.  
+**Solution:** Built a full-stack web platform to manage patients, doctors, appointments, and billing.
 
-### Key Features:
-- Patient Registration & Records
-- Appointment Booking System
-- Admin Dashboard
-- Secure Database Storage
+✔ Patient registration & records  
+✔ Appointment scheduling  
+✔ Admin dashboard  
+✔ Secure database storage  
 
 **Tech Stack:** Django | MySQL | HTML | CSS | Bootstrap  
 
 ---
 
 ## 🏢 HostelConnect – Android Application
-**Problem:** Hostel communication and complaint systems are unorganized.  
-**Solution:** Developed an Android app to streamline hostel communication and issue management.
+**Problem:** Hostel complaint and communication systems are unorganized.  
+**Solution:** Developed an Android app to streamline hostel communication and issue tracking.
 
-### Key Features:
-- Student Login System
-- Complaint Submission & Tracking
-- Admin Management Panel
-- Real-Time Notifications
+✔ Student login  
+✔ Complaint submission & tracking  
+✔ Admin management panel  
+✔ Real-time updates  
 
 **Tech Stack:** Android (Java) | XML | Firebase  
 
 ---
 
 ## 🤖 AI-Powered Document Intelligence Platform
-**Problem:** Searching through large documents manually is slow and inefficient.  
-**Solution:** Built an AI-powered document search system using embeddings and LLM integration.
+**Problem:** Searching through large document collections is inefficient.  
+**Solution:** Created an AI-based semantic document search system using vector embeddings.
 
-### Key Features:
-- Document Upload & Storage
-- Semantic Search
-- AI-based Contextual Answers
-- REST API Integration
+✔ Document upload  
+✔ Semantic search  
+✔ Context-aware AI responses  
+✔ REST API integration  
 
 **Tech Stack:** Django REST | MySQL | ChromaDB / FAISS | LLM  
 
 ---
 
 ## 🧾 Smart Receipt Scanner & Expense Categorizer
-**Problem:** Manual expense tracking is time-consuming.  
+**Problem:** Manual expense tracking is time-consuming and inaccurate.  
 **Solution:** Built an Android app that scans receipts using OCR and auto-categorizes expenses.
 
-### Key Features:
-- OCR-Based Receipt Scanning
-- Automatic Expense Categorization
-- Monthly Expense Summary
-- Expense Analytics
+✔ OCR-based scanning  
+✔ Auto expense categorization  
+✔ Monthly summaries  
+✔ Expense analytics  
 
 **Tech Stack:** Android (Java) | ML Kit | SQLite  
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: (Add your LinkedIn link here)
-- 📧 Email: (Add your email here)
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MMTapkire31&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MMTapkire31&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ Always Learning | Always Building | Always Improving
+# 📫 Connect With Me
+- 💼 LinkedIn: (Add your LinkedIn link)
+- 📧 Email: (Add your email)
+
+---
+
+⭐ Always Learning | Always Building | Always Improving 🚀
