@@ -126,12 +126,7 @@
   </details>
 </div>
 
-<!-- GitHub Analytics with Live Charts -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40">
-  📈 CODE METRICS DASHBOARD 📈
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40">
-</h2>
+
 
 <br>
 
