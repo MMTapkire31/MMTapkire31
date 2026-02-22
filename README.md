@@ -1,100 +1,104 @@
-<h1 align="center">Mayuri Tapkire</h1>
-<h3 align="center">Computer Science (Data Science) Student</h3>
+<h1 align="center">Hi 👋, I'm Mayuri Tapkire</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=6C63FF&center=true&vCenter=true&width=600&lines=Computer+Science+(Data+Science)+Student;Full+Stack+Developer;Android+Developer;AI+%26+ML+Enthusiast;Always+Learning+%7C+Always+Building" />
+  </a>
+</p>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-I am a Computer Science student specializing in Data Science with a strong interest in full-stack development, Android application development, and AI-driven systems.
-
-I believe in learning from mistakes and continuously improving through practice and real-world projects. My focus is on building scalable, problem-solving applications with clean architecture and strong fundamentals.
+🎓 Computer Science (Data Science) Student  
+💻 Passionate about building scalable web & mobile applications  
+🤖 Exploring AI, Machine Learning & LLM-based systems  
+🧠 Strong foundation in DSA, OOP & DBMS  
+🌱 I believe in learning from mistakes and growing consistently  
+🎯 Aspiring Software Engineer  
 
 ---
 
-## Core Concepts
+## 🧠 Core Concepts
 
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
-- Database Management Systems (DBMS)
+- Database Management Systems
 - Multithreading
 - Exception Handling
 - Software Development Life Cycle (SDLC)
 
 ---
 
-## Programming Languages
+## 💻 Programming Languages
 
-- Java
-- Advanced Java
-- Python
-- PHP
-- C++
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,php,cpp" />
+</p>
 
 ---
 
-## Machine Learning & Data Science
+## 🌐 Web & App Development
 
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Model Building
-- Model Evaluation
+<p>
+<img src="https://skillicons.dev/icons?i=django,mysql,html,css,js,android,firebase,react native, sqlite, php" />
+</p>
 
 ---
 
-## Web & Application Development
+## 🤖 Machine Learning & Data Science
 
-- Django
-- MySQL
-- PHP
-- HTML, CSS
-- JavaScript (Basic)
-- Android (Java & XML)
-- Firebase
-- SQLITE
-- React Native
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- Feature Engineering  
+- Model Building & Evaluation  
+- LLM Integration  
 
 ---
 
-## Selected Projects
+# 🚀 Featured Projects
 
-### 1. Full Stack Hospital Management System
-
-Developed a full-stack web application to digitize hospital operations including patient records, doctor management, appointments, and billing.
-
-**Technologies Used:** Django, MySQL, HTML, CSS, Bootstrap  
-**Key Focus:** Database design, backend logic, user management, system workflow.
+### 🏥 Full Stack Hospital Management System
+A complete web platform to digitize hospital operations including patient management, appointments, and billing.  
+**Tech:** Django | MySQL | HTML | CSS  
 
 ---
 
-### 2. HostelConnect – Android Application
-
-Designed and implemented an Android application to streamline hostel communication and complaint management.
-
-**Technologies Used:** Android (Java), XML, Firebase  
-**Key Focus:** Authentication, complaint tracking, real-time updates.
+### 🏢 HostelConnect – Android Application
+An Android app to streamline hostel communication and complaint management.  
+**Tech:** Java | XML | Firebase  
 
 ---
 
-### 3. AI-Powered Document Intelligence Platform
-
-Built a document processing and semantic search system integrating vector embeddings and language models.
-
-**Technologies Used:** Django REST, MySQL, ChromaDB/FAISS  
-**Key Focus:** Backend APIs, AI integration, intelligent search.
+### 🤖 AI-Powered Document Intelligence Platform
+Semantic document search system using vector embeddings and AI integration.  
+**Tech:** Django REST | MySQL | ChromaDB / FAISS  
 
 ---
 
-### 4. Smart Receipt Scanner & Expense Categorizer
-
-Developed an Android application that scans receipts using OCR and automatically categorizes expenses.
-
-**Technologies Used:** Android (Java), ML Kit, SQLite  
-**Key Focus:** OCR integration, data processing, expense analytics.
+### 🧾 Smart Receipt Scanner & Expense Categorizer
+Android app that scans receipts using OCR and categorizes expenses automatically.  
+**Tech:** Java | ML Kit | SQLite  
 
 ---
 
-## Contact
+# 📊 GitHub Analytics
 
-LinkedIn: (Add your link)  
-Email: (Add your email)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MMTapkire31&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MMTapkire31&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/mayuri-tapkire-667182326?utm_source=share_via&utm_content=profile&utm_medium=member_android 
+📧 Email: mayurit3105@gmail.com , tapkiremayuri31@gmail.com
+
+---
+
+<p align="center">
+✨ Building with consistency. Growing with every challenge. ✨
+</p>
