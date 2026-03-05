@@ -55,7 +55,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Software+Development+Lifecycle" alt="SDLC" />
 </p>
 
-<!-- 🚀 ENHANCED TECHNOLOGY ARSENAL SECTION - COMPLETELY REDESIGNED 🚀 -->
+<!-- 🚀 FIXED TECHNOLOGY ARSENAL SECTION - WITH WORKING IMAGES 🚀 -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="50">
   ⚔️ TECHNOLOGY ARSENAL ⚔️
@@ -68,7 +68,7 @@
 
 <br>
 
-<!-- Category 1: Programming Languages - Neon Cards -->
+<!-- Category 1: Programming Languages - Working Icons -->
 <h3 align="center">
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="30">
   💻 PROGRAMMING LANGUAGES
@@ -76,41 +76,42 @@
 </h3>
 
 <p align="center">
-  <a href="#">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="60" height="60" alt="Java" />
-  </a>
-  <a href="#">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="60" height="60" alt="Python" />
-  </a>
-  <a href="#">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="60" height="60" alt="PHP" />
-  </a>
-  <a href="#">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="60" height="60" alt="C++" />
-  </a>
-  <a href="#">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="60" height="60" alt="JavaScript" />
-  </a>
-  <a href="#">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="60" height="60" alt="HTML" />
-  </a>
-  <a href="#">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="60" height="60" alt="CSS" />
-  </a>
+  <!-- Java -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java" title="Java" />
+  &nbsp;&nbsp;&nbsp;
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" title="Python" />
+  &nbsp;&nbsp;&nbsp;
+  <!-- PHP -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" alt="PHP" title="PHP" />
+  &nbsp;&nbsp;&nbsp;
+  <!-- C++ -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" title="C++" />
+  &nbsp;&nbsp;&nbsp;
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" title="JavaScript" />
+  &nbsp;&nbsp;&nbsp;
+  <!-- HTML -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5" />
+  &nbsp;&nbsp;&nbsp;
+  <!-- CSS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" title="CSS3" />
 </p>
 
-<!-- Animated Progress Bars for Languages -->
+<!-- Alternative: Shields.io Badges (Always Work) -->
 <p align="center">
-  <img src="https://progress-bar.dev/90/?title=Java&width=100&color=6C63FF" />
-  <img src="https://progress-bar.dev/85/?title=Python&width=100&color=6C63FF" />
-  <img src="https://progress-bar.dev/80/?title=PHP&width=100&color=6C63FF" />
-  <img src="https://progress-bar.dev/75/?title=C%2B%2B&width=100&color=6C63FF" />
-  <img src="https://progress-bar.dev/70/?title=JS&width=100&color=6C63FF" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 <br>
 
-<!-- Category 2: Frameworks - 3D Rotating Cards Style -->
+<!-- Category 2: Frameworks & Libraries -->
 <h3 align="center">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOdk0B5r/giphy.gif" width="30">
   🌐 FRAMEWORKS & LIBRARIES
@@ -118,163 +119,103 @@
 </h3>
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=6C63FF&color=6C63FF&logoWidth=25" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=6C63FF&color=20232A&logoWidth=25" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=6C63FF&color=3DDC84&logoWidth=25" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=6C63FF&color=339933&logoWidth=25" />
-  </a>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
-<!-- Framework Icons Grid with Animation -->
+<!-- Alternative: Simple Text with Emoji Icons (Always Works) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,react,androidstudio,nodejs,express,flask&perline=6&theme=dark" />
+  <code><b>⚛️ React Native</b></code> &nbsp;&nbsp;
+  <code><b>🐍 Django</b></code> &nbsp;&nbsp;
+  <code><b>📱 Android</b></code> &nbsp;&nbsp;
+  <code><b>🟢 Node.js</b></code> &nbsp;&nbsp;
+  <code><b>⚡ Express</b></code> &nbsp;&nbsp;
+  <code><b>🔥 Flask</b></code>
 </p>
 
 <br>
 
-<!-- Category 3: Databases - Glowing Effect -->
+<!-- Category 3: Databases -->
 <h3 align="center">
   <img src="https://media.giphy.com/media/lOgu1Z14UECBqLxWcO/giphy.gif" width="30">
   🗄️ DATABASES & STORAGE
   <img src="https://media.giphy.com/media/lOgu1Z14UECBqLxWcO/giphy.gif" width="30">
 </h3>
 
-<!-- Database Skills with Animated Cards -->
 <p align="center">
-  <table align="center" border="0">
-    <tr>
-      <td align="center" width="120">
-        <a href="#">
-          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50" height="50" /><br>
-          <b>MySQL</b>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="#">
-          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="50" height="50" /><br>
-          <b>SQLite</b>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="#">
-          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="50" height="50" /><br>
-          <b>Firebase</b>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="#">
-          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="50" height="50" /><br>
-          <b>MongoDB</b>
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
-
-<!-- Vector Database Section (Trending) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=100&color=6C63FF&center=true&vCenter=true&width=500&lines=🔥+Vector+Databases+Specialist+🔥;ChromaDB+%7C+FAISS+%7C+Pinecone" alt="Vector Databases" />
-</p>
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/ChromaDB-6C63FF?style=flat-square&logo=chroma&logoColor=white&labelColor=2D2D5F&color=6C63FF" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/FAISS-6C63FF?style=flat-square&logo=meta&logoColor=white&labelColor=2D2D5F&color=6C63FF" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Pinecone-6C63FF?style=flat-square&logo=pinecone&logoColor=white&labelColor=2D2D5F&color=6C63FF" />
-  </a>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-6C63FF?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-6C63FF?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
 
 <br>
 
-<!-- Category 4: AI/ML Stack - Circuit Board Style -->
+<!-- Category 4: AI & Machine Learning -->
 <h3 align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30">
-  🧠 AI & MACHINE LEARNING STACK
+  🧠 AI & MACHINE LEARNING
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30">
 </h3>
 
-<!-- AI/ML Hexagon Badges -->
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=6C63FF" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=6C63FF" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=6C63FF" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=6C63FF" />
-  </a>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-6C63FF?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
+<!-- AI Skills as Text -->
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=6C63FF" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=6C63FF" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LangChain-6C63FF?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=6C63FF" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=6C63FF" />
-  </a>
+  <code>📊 Data Cleaning</code> &nbsp;
+  <code>📈 EDA</code> &nbsp;
+  <code>🔧 Feature Engineering</code> &nbsp;
+  <code>🤖 Model Building</code> &nbsp;
+  <code>📝 LLM Integration</code> &nbsp;
+  <code>🔍 RAG</code> &nbsp;
+  <code>🎯 Fine-tuning</code>
 </p>
 
-<!-- AI/ML Expertise Meter -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=Data+Cleaning+%7C+EDA+%7C+Feature+Engineering;Model+Building+%7C+LLM+Integration+%7C+RAG;Fine-tuning+%7C+Prompt+Engineering+%7C+Embeddings" alt="AI Expertise" />
-</p>
-
-<!-- Category 5: Tools & DevOps - Animated Tools -->
-<h3 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
-  🔧 DEVELOPMENT TOOLKIT
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
-</h3>
-
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma,linux&perline=7&theme=dark" />
-  </a>
-</p>
-
-<!-- Tools Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=2D2D5F" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=2D2D5F" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=2D2D5F" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=2D2D5F" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=2D2D5F" />
-</p>
-
-<!-- Technology Radar - Visual Summary -->
 <br>
-<h3 align="center">📊 TECHNOLOGY RADAR 2026 📊</h3>
+
+<!-- Category 5: Tools -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
+  🔧 DEVELOPMENT TOOLS
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
+</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMTapkire31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&icon_color=6C63FF&langs_count=8&card_width=400" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+<!-- Technology Stats -->
+<br>
+<h3 align="center">📊 LANGUAGE BREAKDOWN</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMTapkire31&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" width="45%" />
 </p>
 
 <!-- Tech Quote -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" width="80%">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%">
 </p>
-
-<br>
 
 <!-- Projects Showcase with 3D Effect -->
 <h2 align="center">
