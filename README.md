@@ -2,6 +2,9 @@
   
   <!-- Dynamic Header with Matrix-style animation -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=200&section=header&text=Mayuri%20Tapkire&fontSize=60&fontAlignY=35&desc=Data%20Science%20|%20Full%20Stack%20|%20AI%2FML&descAlignY=55&animation=twinkling" width="100%" />
+  <p align="center">
+  <img src="https://img.shields.io/badge/LLM%20Post--Training%20Intern-Ethara%20AI-6C63FF?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
   
   <!-- Animated Typing Effect -->
   <a href="https://git.io/typing-svg">
