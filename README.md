@@ -2,9 +2,6 @@
   
   <!-- Dynamic Header with Matrix-style animation -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=200&section=header&text=Mayuri%20Tapkire&fontSize=60&fontAlignY=35&desc=Data%20Science%20|%20Full%20Stack%20|%20AI%2FML&descAlignY=55&animation=twinkling" width="100%" />
-  <p align="center">
-  <img src="https://img.shields.io/badge/LLM%20Post--Training%20Intern-Ethara%20AI-6C63FF?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
   
   <!-- Animated Typing Effect -->
   <a href="https://git.io/typing-svg">
@@ -31,7 +28,7 @@
       <td>
         <h3>
           <br>
-          🎓 <b>CS (Data Science)</b> Student<br><br>
+          🎓 <b>CS (Data Science)</b> Student @ VIT Pune<br><br>
           💻 Full Stack Developer & Android Creator<br><br>
           🤖 AI/ML Explorer & LLM Enthusiast<br><br>
           🧠 DSA · OOP · DBMS · System Design<br><br>
@@ -101,15 +98,6 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="60" height="60" alt="CSS" />
   </a>
 </p>
-
-<!-- Animated Progress Bars for Languages -->
-<!-- <p align="center">
-  <img src="https://progress-bar.dev/90/?title=Java&width=100&color=6C63FF" />
-  <img src="https://progress-bar.dev/85/?title=Python&width=100&color=6C63FF" />
-  <img src="https://progress-bar.dev/80/?title=PHP&width=100&color=6C63FF" />
-  <img src="https://progress-bar.dev/75/?title=C%2B%2B&width=100&color=6C63FF" />
-  <img src="https://progress-bar.dev/70/?title=JS&width=100&color=6C63FF" />
-</p> -->
 
 <br>
 
@@ -295,11 +283,11 @@
     
 | Project | Tech Stack | Description | Status |
 |---------|------------|-------------|--------|
-| 🏥 **Hospital Management System** | Django \| MySQL \| HTML/CSS | Complete digitization of hospital operations | 🟢 Live |
-| 🏢 **HostelConnect** | Java \| Firebase \| Android | Streamlined hostel communication app | 🟢 Live |
-| 🤖 **AI Document Intelligence** | Django REST \| FAISS \| LLMs | Semantic document search with embeddings | 🟡 Beta |
-| 🧾 **Smart Receipt Scanner** | Java \| ML Kit \| SQLite | OCR-based expense categorization | 🟢 Live |
-| 📊 **Data Visualization Dashboard** | Python \| Plotly \| Django | Interactive analytics platform | 🟠 Coming Soon |
+| 🔐 **PolicyGuard** | DistilBERT \| Django \| Chrome Extension | NLP-based Chrome extension that detects and flags privacy policy risk clauses in real time | 🟢 Live |
+| 🏥 **AyurCare** | React Native \| Django REST \| JWT | Full-stack Panchakarma management app with 3 user roles, email notifications, and Expo Router | 🟢 Live |
+| 🗣️ **BhasiniBridge** | React Native \| Bhashini API \| Google STT/TTS | Communication app for dysarthric speech users supporting 6 Indian languages — AMD Slingshot Top 10, Pune | 🟡 In Progress |
+| 🔬 **AI Research Finder** | Django \| TF-IDF \| arXiv API \| Semantic Scholar | Research paper finder and analyzer with NLP-based relevance ranking | 🟢 Live |
+| 🏢 **HostelConnect** | Java \| Firebase \| Android | Streamlined hostel management and resident communication app | 🟢 Live |
   
   </details>
 </div>
@@ -387,7 +375,7 @@
   </h1>
   
   <h3>
-    ⚡ <b>Current Status:</b> Building something awesome with ☕ and 💜
+    ⚡ <b>Current Status:</b> Building, learning, and shipping with ☕ and 💜
   </h3>
   
   <h4>
